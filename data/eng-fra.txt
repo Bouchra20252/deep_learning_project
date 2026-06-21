@@ -1,0 +1,10 @@
+go .	va .
+hi .	salut .
+run !	cours !
+i am happy .	je suis heureux .
+he loves football .	il aime le football .
+they are learning deep learning .	ils apprennent le deep learning .
+we live in morocco .	nous vivons au maroc .
+she has a book .	elle a un livre .
+this network has memory .	ce reseau a de la memoire .
+good luck for the exam .	bonne chance pour l examen .
