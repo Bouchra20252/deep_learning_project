@@ -53,11 +53,12 @@ sequential text data and generate new text sequences.
 ```text
 Deep-Learning-Projects/
 │
-├── MLP.ipynb
-├── CNN.ipynb
-├── RNN.ipynb
-└── README.md
+├── 01_MLP_Breast_Cancer_Classification.ipynb
+├── 02_CNN_MNIST_Digit_Classification.ipynb
+├── 03_RNN_Text_Generation.ipynb
+│
+├── README.md
+├── requirements.txt
+└── .gitignore
 
-Author
 
-Simali Bouchra
